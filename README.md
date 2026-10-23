@@ -3,11 +3,11 @@
 # Can Pekgoz
 
 **Étudiant en Master 2 Big Data, Analyse & Business Intelligence (BIDABI)**  
-**Objectif professionnel : Data & IA · Analytics · Transformation des organisations**
+**Data · Business Intelligence · Analyse métier · Produits numériques**
 
-Je transforme des données brutes en analyses exploitables, tableaux de bord et outils d'aide à la décision.
+**De la compréhension des besoins métier à la conception de solutions fondées sur les données.**
 
-[![Portfolio GitHub](https://img.shields.io/badge/Portfolio-Projets-181717?logo=github&logoColor=white)](https://github.com/NacPKZ?tab=repositories)
+[![Découvrir mes projets](https://img.shields.io/badge/Découvrir_mes_projets-181717?logo=github&logoColor=white)](https://github.com/NacPKZ?tab=repositories) [![Me contacter](https://img.shields.io/badge/Me_contacter-Email-EA4335?logo=gmail&logoColor=white)](mailto:canpekgoz.pro@gmail.com)
 ![Localisation](https://img.shields.io/badge/Localisation-France-2563EB)
 ![Formation](https://img.shields.io/badge/Formation-Master_2_Big_Data_%26_BI-7C3AED)
 
@@ -15,17 +15,17 @@ Je transforme des données brutes en analyses exploitables, tableaux de bord et 
 
 ---
 
-## À propos
+## Mon profil
 
-Je m'intéresse à l'intersection entre **la donnée, l'intelligence artificielle et les enjeux business**. Mon parcours en économie et gestion, puis en Big Data et Business Intelligence, me permet d'aborder un problème aussi bien sous l'angle **technique** que sous l'angle **décisionnel**.
+Étudiant en **Master 2 Big Data, Analyse & Business Intelligence (BIDABI)**, avec un parcours en **économie et gestion**. Je relie les enjeux métier aux outils de la donnée pour analyser les performances, identifier des opportunités et contribuer à la conception de solutions utiles.
 
-Mes projets portent notamment sur :
-- **Business Intelligence** : conception de tableaux de bord et suivi des indicateurs de performance.
-- **Data Analytics & SQL** : préparation, interrogation, contrôle qualité et analyse de données.
-- **Data Engineering** : pipelines de traitement, streaming et architectures de données.
-- **IA & Machine Learning** : analyse de texte, représentations vectorielles et méthodes statistiques.
+Mes centres d'intérêt couvrent la **Business Intelligence, l'analyse de données, la stratégie, la gestion de produits numériques et l'IA appliquée aux organisations**. Je m'intéresse autant à la compréhension des besoins et à la prise de décision qu'à la mise en œuvre technique.
 
-**Ce que je recherche :** des missions où l'analyse de données permet de comprendre un problème concret, de recommander des actions et de mesurer leur impact.
+**Domaines explorés :** Data Analytics · Business Analysis · Product & Project Management · Data Engineering · IA
+
+**Contact professionnel :** [canpekgoz.pro@gmail.com](mailto:canpekgoz.pro@gmail.com)
+
+---
 
 ## Boîte à outils
 
