@@ -153,14 +153,6 @@ Je privilégie les projets **documentés, reproductibles et compréhensibles par
 
 ## Statistiques GitHub
 
-<div align="center">
-
-![Statistiques GitHub](https://github-readme-stats.vercel.app/api?username=NacPKZ&show_icons=true&hide_border=true&theme=github_dark)
-
-![Langages des dépôts](https://github-readme-stats.vercel.app/api/top-langs/?username=NacPKZ&layout=compact&hide_border=true&theme=github_dark)
-
-</div>
-
 <sub>Les statistiques ci-dessus proviennent d'un service tiers et peuvent être temporairement indisponibles ou mises en cache. Les langages affichés reflètent la composition des dépôts, pas le niveau de maîtrise.</sub>
 
 ---
