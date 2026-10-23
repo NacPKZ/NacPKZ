@@ -1,164 +1,96 @@
 <div align="center">
 
-# Can Pekgoz
+![Bannière Can Pekgoz — Data, Business, Technology](assets/banner.svg)
 
-**Étudiant en Master 2 Big Data, Analyse & Business Intelligence (BIDABI)**  
-**Data · Business Intelligence · Analyse métier · Produits numériques**
+### Data Analytics · Business Intelligence · Stratégie & Produits numériques
 
-**De la compréhension des besoins métier à la conception de solutions fondées sur les données.**
+**Master 2 Big Data, Analyse & Business Intelligence (BIDABI)**  
+*J'associe analyse, technologie et compréhension métier pour transformer les données en décisions utiles.*
 
-[![Découvrir mes projets](https://img.shields.io/badge/Découvrir_mes_projets-181717?logo=github&logoColor=white)](https://github.com/NacPKZ?tab=repositories) [![Me contacter](https://img.shields.io/badge/Me_contacter-Email-EA4335?logo=gmail&logoColor=white)](mailto:canpekgoz.pro@gmail.com)
-![Localisation](https://img.shields.io/badge/Localisation-France-2563EB)
-![Formation](https://img.shields.io/badge/Formation-Master_2_Big_Data_%26_BI-7C3AED)
-
-</div>
-
----
-
-## Mon profil
-
-Étudiant en **Master 2 Big Data, Analyse & Business Intelligence (BIDABI)**, avec un parcours en **économie et gestion**. Je relie les enjeux métier aux outils de la donnée pour analyser les performances, identifier des opportunités et contribuer à la conception de solutions utiles.
-
-Mes centres d'intérêt couvrent la **Business Intelligence, l'analyse de données, la stratégie, la gestion de produits numériques et l'IA appliquée aux organisations**. Je m'intéresse autant à la compréhension des besoins et à la prise de décision qu'à la mise en œuvre technique.
-
-**Domaines explorés :** Data Analytics · Business Analysis · Product & Project Management · Data Engineering · IA
-
-**Contact professionnel :** [canpekgoz.pro@gmail.com](mailto:canpekgoz.pro@gmail.com)
-
----
-
-## Boîte à outils
-
-<div align="center">
-
-**Analyse & programmation**
-
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-
-**BI & visualisation**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?logo=plotly&logoColor=white)
-
-**Bases de données & ingénierie**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?logo=apachespark&logoColor=white)
-
-**Machine Learning & données**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?logo=elasticsearch&logoColor=white)
-![Kibana](https://img.shields.io/badge/Kibana-005571?logo=kibana&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+[![Voir mes projets](https://img.shields.io/badge/EXPLORER_MES_PROJETS-7457FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NacPKZ?tab=repositories)
+[![Contact](https://img.shields.io/badge/CONTACT_PROFESSIONNEL-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:canpekgoz.pro@gmail.com)
 
 </div>
 
-> Ces technologies figurent dans mon parcours de formation ou mes projets. Leur présence ne signifie pas un niveau d'expertise identique sur chacune.
-
 ---
 
-## Projets à découvrir
+### Ce que je construis
+
+| **Comprendre** | **Analyser** | **Décider** |
+|:---:|:---:|:---:|
+| Besoins métier, utilisateurs, processus | SQL, Python, BI, statistiques | KPI, recommandations, solutions numériques |
+
+Mon profil associe **économie et gestion**, **Data & BI** et un intérêt pour **l'IA, les produits numériques et la transformation des organisations**. Je m'intéresse aux missions à l'interface entre équipes métier, produit et technique.
+
+## Projets sélectionnés
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### [Olist — E-commerce Data Warehouse](https://github.com/NacPKZ/Olist-Ecommerce-Data-Warehouse)
+<a href="https://github.com/NacPKZ/Olist-Ecommerce-Data-Warehouse"><img src="https://raw.githubusercontent.com/NacPKZ/Olist-Ecommerce-Data-Warehouse/main/diagrams/olist_data_warehouse_erd.png" alt="Architecture Olist" width="100%"></a>
 
-**SQL · PostgreSQL · Data Engineering · Qualité des données**
+**[Olist · Data Warehouse & SQL](https://github.com/NacPKZ/Olist-Ecommerce-Data-Warehouse)**
 
-Construction et analyse d'un entrepôt de données e-commerce : nettoyage, modélisation, contrôles qualité et indicateurs commerciaux.
-
-**99 441 commandes analysées**
-
-[Explorer le projet →](https://github.com/NacPKZ/Olist-Ecommerce-Data-Warehouse)
+99 441 commandes · PostgreSQL · Qualité des données
 
 </td>
 <td width="50%" valign="top">
 
-### [NovaTel — Customer Churn Analytics](https://github.com/NacPKZ/NovaTel-Customer-Churn-Analytics)
+<a href="https://github.com/NacPKZ/NovaTel-Customer-Churn-Analytics"><img src="https://raw.githubusercontent.com/NacPKZ/NovaTel-Customer-Churn-Analytics/main/screenshots/01_Vue_generale.png" alt="Dashboard Power BI NovaTel" width="100%"></a>
 
-**Power BI · DAX · Business Intelligence**
+**[NovaTel · Customer Analytics](https://github.com/NacPKZ/NovaTel-Customer-Churn-Analytics)**
 
-Analyse de l'attrition client avec un rapport interactif consacré aux facteurs de départ, à la segmentation et à la fidélisation.
-
-**7 043 clients · 6 pages de dashboard**
-
-[Explorer le projet →](https://github.com/NacPKZ/NovaTel-Customer-Churn-Analytics)
+7 043 clients · Power BI · Fidélisation
 
 </td>
 </tr>
 <tr>
-<td valign="top">
+<td width="50%" valign="top">
 
-### [ClassicModels — Sales Analytics](https://github.com/NacPKZ/ClassicModels-Sales-Analytics)
+<a href="https://github.com/NacPKZ/ClassicModels-Sales-Analytics"><img src="https://raw.githubusercontent.com/NacPKZ/ClassicModels-Sales-Analytics/main/visualizations/part2/part2_q1_sales_par_annee.png" alt="Analyse des ventes ClassicModels" width="100%"></a>
 
-**MySQL · Python · Data Analytics**
+**[ClassicModels · Sales Analytics](https://github.com/NacPKZ/ClassicModels-Sales-Analytics)**
 
-Analyse commerciale : SQL avancé, segmentation RFM, saisonnalité, règles d'association et visualisations interactives.
-
-[Explorer le projet →](https://github.com/NacPKZ/ClassicModels-Sales-Analytics)
+MySQL · Python · RFM · Analyses commerciales
 
 </td>
-<td valign="top">
+<td width="50%" valign="top">
 
-### [Word2Vec — NLP Analysis](https://github.com/NacPKZ/Word2Vec-NLP-Analysis)
+<a href="https://github.com/NacPKZ/Google-Trends-Analytics"><img src="https://raw.githubusercontent.com/NacPKZ/Google-Trends-Analytics/main/outputs/figures_premium_dark/03_world_leaders_dark.png" alt="Carte mondiale Google Trends" width="100%"></a>
 
-**Python · NLP · Machine Learning**
+**[Google Trends · Analytics](https://github.com/NacPKZ/Google-Trends-Analytics)**
 
-Entraînement et comparaison de modèles Word2Vec, évaluation des représentations vectorielles et étude des hyperparamètres.
-
-[Explorer le projet →](https://github.com/NacPKZ/Word2Vec-NLP-Analysis)
+Python · Streamlit · Visualisation géographique
 
 </td>
 </tr>
 </table>
 
-### Autres réalisations
-
-| Projet | Domaine | Technologies |
-|---|---|---|
-| [Google Trends Analytics](https://github.com/NacPKZ/Google-Trends-Analytics) | Tendances de recherche et visualisation géographique | Python · Streamlit · PyTrends |
-| [FHIR Streaming Pipeline](https://github.com/NacPKZ/FHIR-Streaming-Pipeline) | Simulation de flux médicaux et détection d'anomalies | Kafka · Docker · Elasticsearch · Kibana |
-| [Spotify PySpark Analytics](https://github.com/NacPKZ/Spotify-PySpark-Analytics) | Exploration de données musicales à grande échelle | Python · PySpark · Spark SQL |
+**Autres projets :** [Word2Vec · NLP](https://github.com/NacPKZ/Word2Vec-NLP-Analysis) · [FHIR · Streaming Kafka](https://github.com/NacPKZ/FHIR-Streaming-Pipeline) · [Spotify · PySpark](https://github.com/NacPKZ/Spotify-PySpark-Analytics)
 
 ---
 
-## Mon approche d'un projet Data
+## Compétences et outils
 
-```text
-Comprendre le besoin métier
-          ↓
-Collecter et fiabiliser les données
-          ↓
-Explorer, modéliser et analyser
-          ↓
-Construire les indicateurs et visualisations
-          ↓
-Interpréter les résultats
-          ↓
-Formuler des recommandations
-```
+| Domaine | Outils et méthodes mobilisés |
+|---|---|
+| **Data & SQL** | Python · Pandas · PostgreSQL · MySQL · Analyse exploratoire |
+| **Business Intelligence** | Power BI · DAX · Excel · KPI · Data Visualization |
+| **Ingénierie des données** | Docker · Kafka · PySpark · Elasticsearch |
+| **IA & analyses avancées** | NLP · Word2Vec · Machine Learning · Séries temporelles |
+| **Business & produit** | Analyse métier · Indicateurs de performance · Aide à la décision |
 
-Je privilégie les projets **documentés, reproductibles et compréhensibles par un interlocuteur non technique**.
+<sub>Technologies pratiquées à des degrés différents au cours de ma formation et de mes projets.</sub>
 
 ---
 
 <div align="center">
 
-### Data · Business · Décision
+### Échanger autour d'un projet, d'une opportunité ou d'une problématique Data
 
-**Construire des solutions utiles, pas seulement des analyses.**
+[![Email](https://img.shields.io/badge/Email-canpekgoz.pro%40gmail.com-7457FF?style=for-the-badge&logo=gmail&logoColor=white)](mailto:canpekgoz.pro@gmail.com)
 
-[Voir tous mes dépôts](https://github.com/NacPKZ?tab=repositories)
+[**Tous mes dépôts GitHub →**](https://github.com/NacPKZ?tab=repositories)
 
 </div>
