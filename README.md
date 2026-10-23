@@ -8,7 +8,7 @@
 *J'associe analyse, technologie et compréhension métier pour transformer les données en décisions utiles.*
 
 [![Voir mes projets](https://img.shields.io/badge/EXPLORER_MES_PROJETS-7457FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NacPKZ?tab=repositories)
-[**✉ Me contacter**](mailto:canpekgoz.pro@gmail.com)
+[![ME CONTACTER](https://img.shields.io/badge/ME_CONTACTER-1E3A5F?style=for-the-badge&logoColor=white)](mailto:canpekgoz.pro@gmail.com)
 
 </div>
 
@@ -24,48 +24,12 @@ Mon profil associe **économie et gestion**, **Data & BI** et un intérêt pour 
 
 ## Projets sélectionnés
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/NacPKZ/Olist-Ecommerce-Data-Warehouse"><img src="https://raw.githubusercontent.com/NacPKZ/Olist-Ecommerce-Data-Warehouse/main/diagrams/olist_data_warehouse_erd.png" alt="Architecture Olist" width="420" height="190"></a>
-
-**[Olist · Data Warehouse & SQL](https://github.com/NacPKZ/Olist-Ecommerce-Data-Warehouse)**
-
-99 441 commandes · PostgreSQL · Qualité des données
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/NacPKZ/NovaTel-Customer-Churn-Analytics"><img src="https://raw.githubusercontent.com/NacPKZ/NovaTel-Customer-Churn-Analytics/main/screenshots/01_Vue_generale.png" alt="Dashboard Power BI NovaTel" width="420" height="190"></a>
-
-**[NovaTel · Customer Analytics](https://github.com/NacPKZ/NovaTel-Customer-Churn-Analytics)**
-
-7 043 clients · Power BI · Fidélisation
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-<a href="https://github.com/NacPKZ/ClassicModels-Sales-Analytics"><img src="https://raw.githubusercontent.com/NacPKZ/ClassicModels-Sales-Analytics/main/visualizations/part2/part2_q1_sales_par_annee.png" alt="Analyse des ventes ClassicModels" width="420" height="190"></a>
-
-**[ClassicModels · Sales Analytics](https://github.com/NacPKZ/ClassicModels-Sales-Analytics)**
-
-MySQL · Python · RFM · Analyses commerciales
-
-</td>
-<td width="50%" valign="top">
-
-<a href="https://github.com/NacPKZ/Google-Trends-Analytics"><img src="https://raw.githubusercontent.com/NacPKZ/Google-Trends-Analytics/main/outputs/figures_premium_dark/03_world_leaders_dark.png" alt="Carte mondiale Google Trends" width="420" height="190"></a>
-
-**[Google Trends · Analytics](https://github.com/NacPKZ/Google-Trends-Analytics)**
-
-Python · Streamlit · Visualisation géographique
-
-</td>
-</tr>
-</table>
+| Projet | Réalisation | Technologies |
+|:---|:---|:---|
+| **[Olist · Data Warehouse & SQL](https://github.com/NacPKZ/Olist-Ecommerce-Data-Warehouse)** | Entrepôt de données e-commerce · 99 441 commandes | PostgreSQL · SQL · Data Quality |
+| **[NovaTel · Customer Analytics](https://github.com/NacPKZ/NovaTel-Customer-Churn-Analytics)** | Analyse de la fidélisation · 7 043 clients | Power BI · DAX · KPI |
+| **[ClassicModels · Sales Analytics](https://github.com/NacPKZ/ClassicModels-Sales-Analytics)** | Analyse des ventes et segmentation clients | MySQL · Python · RFM |
+| **[Google Trends · Analytics](https://github.com/NacPKZ/Google-Trends-Analytics)** | Exploration des tendances et comparaison géographique | Python · Streamlit · Visualisation |
 
 **Autres projets :** [Word2Vec · NLP](https://github.com/NacPKZ/Word2Vec-NLP-Analysis) · [FHIR · Streaming Kafka](https://github.com/NacPKZ/FHIR-Streaming-Pipeline) · [Spotify · PySpark](https://github.com/NacPKZ/Spotify-PySpark-Analytics)
 
