@@ -1,10 +1,10 @@
 <div align="center">
 
 # Can Pekgoz
-### Data Analytics · Business Intelligence · IA appliquée à la décision
+### Data · Business Intelligence · IA appliquée à la décision
 
 **Étudiant en Master 2 Big Data, Analyse & Business Intelligence (BIDABI)**  
-**Objectif professionnel : conseil Data & IA · Analytics · Transformation des organisations**
+**Objectif professionnel : Data & IA · Analytics · Transformation des organisations**
 
 Je transforme des données brutes en analyses exploitables, tableaux de bord et outils d'aide à la décision.
 
