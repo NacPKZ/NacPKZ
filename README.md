@@ -151,10 +151,6 @@ Formuler des recommandations
 
 Je privilégie les projets **documentés, reproductibles et compréhensibles par un interlocuteur non technique**.
 
-## Statistiques GitHub
-
-<sub>Les statistiques ci-dessus proviennent d'un service tiers et peuvent être temporairement indisponibles ou mises en cache. Les langages affichés reflètent la composition des dépôts, pas le niveau de maîtrise.</sub>
-
 ---
 
 <div align="center">
