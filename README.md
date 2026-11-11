@@ -1,108 +1,147 @@
 <div align="center">
 
-![Bannière Data, Business et Technology](assets/banner.svg)
+![Bannière de profil](assets/banner.svg)
 
-### Data Analytics | Business Intelligence | Data Strategy
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1200&color=8C7BFF&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Business+Intelligence;Data+Strategy+%7C+Business+Analysis;From+data+to+business+decisions" alt="Animation des domaines de compétences" /></a>
 
 **Master 2 Big Data, Analyse & Business Intelligence (BIDABI)**
 
-*Relier les données, les enjeux métier et les décisions stratégiques.*
+*Économie et gestion, analyse de données, outils décisionnels et compréhension métier.*
 
-[![Portfolio](https://img.shields.io/badge/DÉCOUVRIR_MES_PROJETS-7457FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NacPKZ?tab=repositories)
-[![Application](https://img.shields.io/badge/VOIR_CONSULTAI_360-16A6AD?style=for-the-badge&logo=streamlit&logoColor=white)](https://consultai-360.streamlit.app/)
-[![Contact](https://img.shields.io/badge/CONTACT_PAR_EMAIL-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=canpekgoz.pro%40gmail.com)
-
-**Contact :** [canpekgoz.pro@gmail.com](mailto:canpekgoz.pro@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ÉCHANGEONS-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/can-pekgoz/)
+[![GitHub](https://img.shields.io/badge/GitHub-MES_PROJETS-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NacPKZ?tab=repositories)
+[![Email](https://img.shields.io/badge/Email-ME_CONTACTER-7957D5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:canpekgoz.pro@gmail.com)
 
 </div>
 
 ---
 
-## Mon approche
+## À propos
 
-Je combine une formation en **économie et gestion** avec des compétences en **Data Analytics, Business Intelligence et IA appliquée**. Je m'intéresse aux missions à l'interface des équipes métier, produit et technique.
+Je construis des projets à l'intersection de la **Data, de la Business Intelligence et de la stratégie**. Mon parcours en économie et gestion m'amène à m'intéresser autant à la fiabilité des données et aux outils techniques qu'à leur utilisation pour résoudre des problématiques métier.
 
-| Comprendre | Construire | Décider |
-|:---:|:---:|:---:|
-| Diagnostic métier et processus | SQL, Python, Power BI, ML | KPI, recommandations et stratégie Data |
+**Mon approche :** comprendre les besoins, structurer les données, construire les analyses, puis proposer des décisions argumentées.
 
-## Projet phare
+## Projet phare : ConsultAI 360
 
 ### [ConsultAI 360 | Mission de conseil Data & IA](https://github.com/NacPKZ/ConsultAI-360)
 
-**De la qualité des données aux décisions métier.** Simulation d'une mission complète de transformation Data pour **NexaRetail**, une entreprise fictive de distribution omnicanale.
+Une mission complète simulée pour **NexaRetail**, entreprise fictive de distribution omnicanale : génération et audit de données, PostgreSQL, Data Warehouse, dbt, Power BI, Machine Learning sur DataCo, assistant IA et recommandations stratégiques.
 
-Le projet couvre la génération de données, l'audit qualité, PostgreSQL, la modélisation Data Warehouse, dbt, Power BI, le Machine Learning sur DataCo, un assistant IA et une recommandation de transformation.
-
-| Données | Analytics Engineering | Business Intelligence | Qualité logicielle |
+| 4 scénarios | 4,1 M+ lignes RAW | 7 pages Power BI | 16 modèles dbt |
 |:---:|:---:|:---:|:---:|
-| **4,1 M+** lignes RAW cumulées | **16** modèles dbt | **7** pages Power BI | **31** tests Python réussis |
-| 4 scénarios | 37 tests dbt | Reporting décisionnel | Résultat historique documenté |
+| Qualité des données | Volumes cumulés | Restitution métier | 37 tests dbt |
 
-**Technologies :** Python, PostgreSQL, SQL, dbt, Power BI, DAX, scikit-learn, Streamlit, FastAPI, Ollama, Docker.
+**Stack :** Python, SQL, PostgreSQL, dbt, Power BI, DAX, scikit-learn, Streamlit, FastAPI, Ollama et Docker.
 
-**Parcours :** `Diagnostic` → `Data Quality` → `Data Engineering` → `BI` → `Machine Learning` → `IA et stratégie`
+[**Dépôt et documentation**](https://github.com/NacPKZ/ConsultAI-360) | [**Application Streamlit**](https://consultai-360.streamlit.app/) | [**Rapport final**](https://github.com/NacPKZ/ConsultAI-360/blob/main/docs/12_rapport_final_conseil.md)
 
-<div align="center">
+<sub>Cas d'étude synthétique. Le ML est évalué sur DataCo, distinct de NexaRetail. Les ROI sont simulés.</sub>
 
-[![Dépôt ConsultAI 360](https://img.shields.io/badge/EXPLORER_LE_PROJET-7457FF?style=flat-square&logo=github&logoColor=white)](https://github.com/NacPKZ/ConsultAI-360)
-[![Démo Streamlit](https://img.shields.io/badge/TESTER_L'APPLICATION-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)](https://consultai-360.streamlit.app/)
-[![Rapport final](https://img.shields.io/badge/LIRE_LE_RAPPORT-1E3A5F?style=flat-square&logo=readthedocs&logoColor=white)](https://github.com/NacPKZ/ConsultAI-360/blob/main/docs/12_rapport_final_conseil.md)
+## Autres projets
 
-</div>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<sub>Cas d'étude synthétique. Les résultats ML concernent DataCo, distinct de NexaRetail. Les ROI sont simulés.</sub>
+### [Olist | Data Warehouse](https://github.com/NacPKZ/Olist-Ecommerce-Data-Warehouse)
 
-## Autres réalisations
+**99 441 commandes** analysées dans un projet SQL et entrepôt de données.
 
-| Projet | Objectif et résultats | Outils |
-|:---|:---|:---|
-| [**Olist : Data Warehouse & SQL**](https://github.com/NacPKZ/Olist-Ecommerce-Data-Warehouse) | Modélisation et analyse de 99 441 commandes e-commerce | PostgreSQL, SQL, Data Quality |
-| [**NovaTel : Customer Churn Analytics**](https://github.com/NacPKZ/NovaTel-Customer-Churn-Analytics) | Analyse de la fidélisation sur 7 043 clients | Power BI, DAX, KPI |
-| [**ClassicModels : Sales Analytics**](https://github.com/NacPKZ/ClassicModels-Sales-Analytics) | Analyse des ventes et segmentation des clients | MySQL, Python, RFM |
-| [**Google Trends : Analytics**](https://github.com/NacPKZ/Google-Trends-Analytics) | Exploration de tendances et comparaisons géographiques | Python, Streamlit |
+`PostgreSQL` `SQL` `Data Quality`
 
-**Explorer également :** [Word2Vec et NLP](https://github.com/NacPKZ/Word2Vec-NLP-Analysis) | [FHIR et Kafka](https://github.com/NacPKZ/FHIR-Streaming-Pipeline) | [Spotify et PySpark](https://github.com/NacPKZ/Spotify-PySpark-Analytics)
+</td>
+<td width="50%" valign="top">
+
+### [NovaTel | Customer Churn](https://github.com/NacPKZ/NovaTel-Customer-Churn-Analytics)
+
+**7 043 clients** étudiés dans un tableau de bord de fidélisation.
+
+`Power BI` `DAX` `KPI`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### [ClassicModels | Sales Analytics](https://github.com/NacPKZ/ClassicModels-Sales-Analytics)
+
+Analyse commerciale, segmentation et indicateurs clients.
+
+`MySQL` `Python` `RFM`
+
+</td>
+<td valign="top">
+
+### [Google Trends | Analytics](https://github.com/NacPKZ/Google-Trends-Analytics)
+
+Exploration des tendances et comparaisons géographiques.
+
+`Python` `Streamlit` `Dataviz`
+
+</td>
+</tr>
+</table>
+
+**Autres réalisations :** [Word2Vec et NLP](https://github.com/NacPKZ/Word2Vec-NLP-Analysis) | [FHIR et Kafka](https://github.com/NacPKZ/FHIR-Streaming-Pipeline) | [Spotify et PySpark](https://github.com/NacPKZ/Spotify-PySpark-Analytics)
 
 ---
 
-## Compétences et outils
+## Compétences techniques
 
-<div align="center">
+### Langages, bases de données et analyse
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-34495E?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+### Business Intelligence et outils métier
+
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-101F38?style=flat-square)
+![Power Query](https://img.shields.io/badge/Power_Query-107C41?style=flat-square)
+
+### Data Engineering, ML et applications
+
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-30363D?style=flat-square)
 
-</div>
+### Logiciels et environnement de travail
 
-| Domaine | Outils et méthodes |
+| Logiciels | Utilisation |
 |---|---|
-| **Analyse et bases de données** | Python, pandas, SQL, PostgreSQL, MySQL |
-| **Business Intelligence** | Power BI, Power Query, DAX, Excel, datavisualisation |
-| **Data Engineering** | dbt, Docker, PySpark, Kafka, modélisation DW |
-| **Machine Learning et IA** | scikit-learn, NLP, Word2Vec, Ollama, séries temporelles |
-| **Conseil et produit** | Diagnostic métier, stratégie Data, KPI, recommandations, aide à la décision |
+| **Visual Studio Code** | Python, SQL, développement et Git |
+| **DBeaver et PostgreSQL** | Exploration des données et requêtes SQL |
+| **Power BI Desktop** | Modèles, DAX et tableaux de bord |
+| **Microsoft Excel** | Analyse, tableaux et contrôles |
+| **Docker Desktop** | Services et environnement de développement |
+| **Git et GitHub** | Versionnement, documentation et portfolio |
+| **PowerShell** | Exécution et automatisation locale |
 
-<sub>Technologies pratiquées à différents niveaux au cours de ma formation et de mes projets.</sub>
+### Compétences métier et méthodologiques
+
+`Business Analysis` `Data Quality` `Data Modeling` `KPI` `Data Visualization` `Machine Learning` `Data Strategy` `Documentation` `Recommandations métier`
+
+<sub>Outils et méthodes pratiqués à des niveaux différents dans le cadre des études et des projets.</sub>
 
 ---
 
 <div align="center">
 
-## Échanger autour d'un projet
+## Me contacter
 
-Pour une opportunité de stage, une mission ou un échange autour de la Data :
+**Pour un stage, un projet Data ou un échange professionnel :**
 
-### [canpekgoz.pro@gmail.com](mailto:canpekgoz.pro@gmail.com)
-
-[![Écrire avec Gmail](https://img.shields.io/badge/OUVRIR_GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=canpekgoz.pro%40gmail.com)
-[![Voir mes dépôts](https://img.shields.io/badge/TOUS_MES_PROJETS-30363D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NacPKZ?tab=repositories)
-
-*Si le lien email ne s'ouvre pas, copiez l'adresse affichée ci-dessus dans votre messagerie.*
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-MON_PROFIL-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/can-pekgoz/)
+[![Email](https://img.shields.io/badge/Email-ENVOYER_UN_MESSAGE-7957D5?style=for-the-badge&logo=gmail&logoColor=white)](mailto:canpekgoz.pro@gmail.com)
 
 </div>
