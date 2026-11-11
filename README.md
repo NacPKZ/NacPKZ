@@ -1,8 +1,8 @@
 <div align="center">
 
-![Bannière Can Pekgoz — Data, Business, Technology](assets/banner.svg)
+![Bannière Can Pekgoz : Data, Business, Technology](assets/banner.svg)
 
-### Data Analytics · Business Intelligence · Stratégie & Produits numériques
+### Data Analytics | Business Intelligence | Data Strategy
 
 **Master 2 Big Data, Analyse & Business Intelligence (BIDABI)**  
 *J'associe analyse, technologie et compréhension métier pour transformer les données en décisions utiles.*
@@ -24,14 +24,55 @@ Mon profil associe **économie et gestion**, **Data & BI** et un intérêt pour 
 
 ## Projets sélectionnés
 
+### Projet phare : ConsultAI 360
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+**[ConsultAI 360 | Mission de conseil Data & IA](https://github.com/NacPKZ/ConsultAI-360)**
+
+Simulation d'une mission de transformation Data pour **NexaRetail**, une entreprise fictive de distribution omnicanale : génération et audit de données, PostgreSQL, Data Warehouse, dbt, Power BI, expérimentation ML indépendante, assistant IA et recommandations stratégiques.
+
+**Quelques repères :** 4 scénarios de qualité, plus de 4,1 millions de lignes RAW cumulées, 7 pages Power BI, 16 modèles dbt et 37 tests, 31 tests Python réussis.
+
+**Stack :** Python, SQL, PostgreSQL, dbt, Power BI, DAX, scikit-learn, Streamlit, FastAPI, Ollama, Docker.
+
+[**Voir le dépôt**](https://github.com/NacPKZ/ConsultAI-360) | [**Tester Streamlit**](https://consultai-360.streamlit.app/) | [**Lire le rapport final**](https://github.com/NacPKZ/ConsultAI-360/blob/main/docs/12_rapport_final_conseil.md)
+
+</td>
+<td width="35%" valign="top">
+
+**Démarche**
+
+`Diagnostic métier`
+
+`Data Quality`
+
+`Data Engineering`
+
+`Business Intelligence`
+
+`Machine Learning`
+
+`IA & recommandations`
+
+</td>
+</tr>
+</table>
+
+<sub>Cas d'étude sur données synthétiques. Le modèle ML est évalué sur DataCo, distinct de NexaRetail. Les ROI sont simulés.</sub>
+
+### Autres réalisations
+
 | Projet | Réalisation | Technologies |
 |:---|:---|:---|
-| **[Olist · Data Warehouse & SQL](https://github.com/NacPKZ/Olist-Ecommerce-Data-Warehouse)** | Entrepôt de données e-commerce · 99 441 commandes | PostgreSQL · SQL · Data Quality |
-| **[NovaTel · Customer Analytics](https://github.com/NacPKZ/NovaTel-Customer-Churn-Analytics)** | Analyse de la fidélisation · 7 043 clients | Power BI · DAX · KPI |
-| **[ClassicModels · Sales Analytics](https://github.com/NacPKZ/ClassicModels-Sales-Analytics)** | Analyse des ventes et segmentation clients | MySQL · Python · RFM |
-| **[Google Trends · Analytics](https://github.com/NacPKZ/Google-Trends-Analytics)** | Exploration des tendances et comparaison géographique | Python · Streamlit · Visualisation |
+| **[Olist | Data Warehouse & SQL](https://github.com/NacPKZ/Olist-Ecommerce-Data-Warehouse)** | Entrepôt de données e-commerce, 99 441 commandes | PostgreSQL, SQL, Data Quality |
+| **[NovaTel | Customer Analytics](https://github.com/NacPKZ/NovaTel-Customer-Churn-Analytics)** | Analyse de la fidélisation, 7 043 clients | Power BI, DAX, KPI |
+| **[ClassicModels | Sales Analytics](https://github.com/NacPKZ/ClassicModels-Sales-Analytics)** | Analyse des ventes et segmentation clients | MySQL, Python, RFM |
+| **[Google Trends | Analytics](https://github.com/NacPKZ/Google-Trends-Analytics)** | Exploration des tendances et comparaison géographique | Python, Streamlit, visualisation |
 
-**Autres projets :** [Word2Vec · NLP](https://github.com/NacPKZ/Word2Vec-NLP-Analysis) · [FHIR · Streaming Kafka](https://github.com/NacPKZ/FHIR-Streaming-Pipeline) · [Spotify · PySpark](https://github.com/NacPKZ/Spotify-PySpark-Analytics)
+**Autres projets :** [Word2Vec | NLP](https://github.com/NacPKZ/Word2Vec-NLP-Analysis) | [FHIR | Streaming Kafka](https://github.com/NacPKZ/FHIR-Streaming-Pipeline) | [Spotify | PySpark](https://github.com/NacPKZ/Spotify-PySpark-Analytics)
 
 ---
 
@@ -39,11 +80,11 @@ Mon profil associe **économie et gestion**, **Data & BI** et un intérêt pour 
 
 | Domaine | Outils et méthodes mobilisés |
 |---|---|
-| **Data & SQL** | Python · Pandas · PostgreSQL · MySQL · Analyse exploratoire |
-| **Business Intelligence** | Power BI · DAX · Excel · KPI · Data Visualization |
-| **Ingénierie des données** | Docker · Kafka · PySpark · Elasticsearch |
-| **IA & analyses avancées** | NLP · Word2Vec · Machine Learning · Séries temporelles |
-| **Business & produit** | Analyse métier · Indicateurs de performance · Aide à la décision |
+| **Data & SQL** | Python, pandas, PostgreSQL, MySQL, SQL, analyse exploratoire |
+| **Business Intelligence** | Power BI, Power Query, DAX, Excel, KPI, datavisualisation |
+| **Ingénierie des données** | dbt, Docker, Kafka, PySpark, Elasticsearch, modélisation DW |
+| **IA & analyses avancées** | scikit-learn, NLP, Word2Vec, ML, Ollama, séries temporelles |
+| **Business & produit** | Analyse métier, stratégie Data, indicateurs, recommandations, aide à la décision |
 
 <sub>Technologies pratiquées à des degrés différents au cours de ma formation et de mes projets.</sub>
 
