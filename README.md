@@ -83,8 +83,8 @@ Simulation d'une mission de transformation Data pour **NexaRetail**, une entrepr
 | **Data & SQL** | Python, pandas, PostgreSQL, MySQL, SQL, analyse exploratoire |
 | **Business Intelligence** | Power BI, Power Query, DAX, Excel, KPI, datavisualisation |
 | **Ingénierie des données** | dbt, Docker, Kafka, PySpark, Elasticsearch, modélisation DW |
-| **IA & analyses avancées** | scikit-learn, NLP, Word2Vec, ML, Ollama, séries temporelles |
-| **Business & produit** | Analyse métier, stratégie Data, indicateurs, recommandations, aide à la décision |
+| **IA et analyses avancées** | scikit-learn, NLP, Word2Vec, Machine Learning, Ollama, séries temporelles |
+| **Business et produit** | Analyse métier, stratégie Data, indicateurs, recommandations, aide à la décision |
 
 <sub>Technologies pratiquées à des degrés différents au cours de ma formation et de mes projets.</sub>
 
