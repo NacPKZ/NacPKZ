@@ -27,8 +27,6 @@ Je construis des projets à l'intersection de la **Data, de la Business Intellig
 
 [**Découvrir mon portfolio**](https://nacpkz-portfolio.vercel.app/) : présentation de mon parcours, de mes projets Data & IA et de leurs enjeux métier, dans une expérience web interactive.
 
-**Nouveaux apprentissages autour du web et de la mise en ligne :** structure d’un projet front-end, notions de HTML/CSS et JavaScript/TypeScript, composants React, fonctionnement d’un hébergement web, déploiement sur Vercel, domaine public, HTTPS et articulation entre GitHub et la publication d’un site. Ces notions sont en cours d’approfondissement et ne constituent pas une revendication de maîtrise avancée du développement front-end.
-
 ## Projet phare : ConsultAI 360
 
 ### [ConsultAI 360 | Mission de conseil Data & IA](https://github.com/NacPKZ/ConsultAI-360)
@@ -122,17 +120,6 @@ Exploration des tendances et comparaisons géographiques.
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-30363D?style=flat-square)
 
-### Web, déploiement et publication
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-
-<sub>Découverte et pratique guidée dans le cadre du portfolio, avec une compréhension progressive du développement front-end et du déploiement.</sub>
-
 ### Logiciels et environnement de travail
 
 | Logiciels | Utilisation |
@@ -143,7 +130,6 @@ Exploration des tendances et comparaisons géographiques.
 | **Microsoft Excel** | Analyse, tableaux et contrôles |
 | **Docker Desktop** | Services et environnement de développement |
 | **Git et GitHub** | Versionnement, documentation et publication de projets |
-| **Vercel** | Hébergement du portfolio et découverte du déploiement web |
 | **PowerShell** | Exécution et automatisation locale |
 
 ### Compétences métier et méthodologiques
