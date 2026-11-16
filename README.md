@@ -2,7 +2,7 @@
 
 ![Bannière de profil](assets/banner.svg)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1200&color=8C7BFF&center=true&vCenter=true&width=700&lines=Data+Analytics+%7C+Business+Intelligence;Data+Strategy+%7C+Business+Analysis;From+data+to+business+decisions" alt="Animation des domaines de compétences" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3500&pause=1200&color=8C7BFF&center=true&vCenter=true&width=700&lines=Analyse+de+donn%C3%A9es+%7C+Aide+%C3%A0+la+d%C3%A9cision;Strat%C3%A9gie+data+%7C+Analyse+m%C3%A9tier;Des+donn%C3%A9es+aux+d%C3%A9cisions+m%C3%A9tier" alt="Animation des domaines de compétences" /></a>
 
 **Master 2 Big Data, Analyse & Business Intelligence (BIDABI)**
 
@@ -37,7 +37,7 @@ Une mission complète simulée pour **NexaRetail**, entreprise fictive de distri
 |:---:|:---:|:---:|:---:|
 | Qualité des données | Volumes cumulés | Restitution métier | 37 tests dbt |
 
-**Stack :** Python, SQL, PostgreSQL, dbt, Power BI, DAX, scikit-learn, Streamlit, FastAPI, Ollama et Docker.
+**Technologies :** Python, SQL, PostgreSQL, dbt, Power BI, DAX, scikit-learn, Streamlit, FastAPI, Ollama et Docker.
 
 [**Dépôt et documentation**](https://github.com/NacPKZ/ConsultAI-360) | [**Application Streamlit**](https://consultai-360.streamlit.app/) | [**Rapport final**](https://github.com/NacPKZ/ConsultAI-360/blob/main/docs/12_rapport_final_conseil.md)
 
@@ -49,7 +49,7 @@ Une mission complète simulée pour **NexaRetail**, entreprise fictive de distri
 <tr>
 <td width="50%" valign="top">
 
-### [Olist | Data Warehouse](https://github.com/NacPKZ/Olist-Ecommerce-Data-Warehouse)
+### [Olist | Entrepôt de données](https://github.com/NacPKZ/Olist-Ecommerce-Data-Warehouse)
 
 **99 441 commandes** analysées dans un projet SQL et entrepôt de données.
 
@@ -58,7 +58,7 @@ Une mission complète simulée pour **NexaRetail**, entreprise fictive de distri
 </td>
 <td width="50%" valign="top">
 
-### [NovaTel | Customer Churn](https://github.com/NacPKZ/NovaTel-Customer-Churn-Analytics)
+### [NovaTel | Attrition client](https://github.com/NacPKZ/NovaTel-Customer-Churn-Analytics)
 
 **7 043 clients** étudiés dans un tableau de bord de fidélisation.
 
@@ -69,7 +69,7 @@ Une mission complète simulée pour **NexaRetail**, entreprise fictive de distri
 <tr>
 <td valign="top">
 
-### [ClassicModels | Sales Analytics](https://github.com/NacPKZ/ClassicModels-Sales-Analytics)
+### [ClassicModels | Analyse commerciale](https://github.com/NacPKZ/ClassicModels-Sales-Analytics)
 
 Analyse commerciale, segmentation et indicateurs clients.
 
@@ -78,7 +78,7 @@ Analyse commerciale, segmentation et indicateurs clients.
 </td>
 <td valign="top">
 
-### [Google Trends | Analytics](https://github.com/NacPKZ/Google-Trends-Analytics)
+### [Google Trends | Analyse des tendances](https://github.com/NacPKZ/Google-Trends-Analytics)
 
 Exploration des tendances et comparaisons géographiques.
 
@@ -88,7 +88,7 @@ Exploration des tendances et comparaisons géographiques.
 </tr>
 </table>
 
-**Autres réalisations :** [Word2Vec et NLP](https://github.com/NacPKZ/Word2Vec-NLP-Analysis) | [FHIR et Kafka](https://github.com/NacPKZ/FHIR-Streaming-Pipeline) | [Spotify et PySpark](https://github.com/NacPKZ/Spotify-PySpark-Analytics)
+**Autres réalisations :** [FHIR et Kafka](https://github.com/NacPKZ/FHIR-Streaming-Pipeline) | [Spotify et PySpark](https://github.com/NacPKZ/Spotify-PySpark-Analytics)
 
 ---
 
@@ -103,14 +103,14 @@ Exploration des tendances et comparaisons géographiques.
 ![pandas](https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-### Business Intelligence et outils métier
+### Informatique décisionnelle et outils métier
 
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![DAX](https://img.shields.io/badge/DAX-101F38?style=flat-square)
 ![Power Query](https://img.shields.io/badge/Power_Query-107C41?style=flat-square)
 
-### Data Engineering, ML et applications
+### Ingénierie des données, apprentissage automatique et applications
 
 ![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -134,7 +134,7 @@ Exploration des tendances et comparaisons géographiques.
 
 ### Compétences métier et méthodologiques
 
-`Business Analysis` `Data Quality` `Data Modeling` `KPI` `Data Visualization` `Machine Learning` `Data Strategy` `Documentation` `Recommandations métier`
+`Analyse métier` `Qualité des données` `Modélisation des données` `KPI` `Visualisation de données` `Apprentissage automatique` `Stratégie data` `Documentation` `Recommandations métier`
 
 <sub>Outils et méthodes pratiqués à des niveaux différents dans le cadre des études et des projets.</sub>
 
